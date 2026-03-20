@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dominik</h1>
+<h1 align="center">Hi, I'm Dominik!</h1>
 <h3 align="center">I am an aspiring bioinformatician from Slovakia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takimitsu&label=Profile%20views&color=0e75b6&style=flat" alt="takimitsu" /> </p>
